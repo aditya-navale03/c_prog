@@ -1,2 +1,2 @@
 # c_prog
-a
+repo for c programming 
