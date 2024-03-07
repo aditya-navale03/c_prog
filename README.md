@@ -1,2 +1,3 @@
 # c_prog
-repo for c programming 
+
+## This repo is for storing college practical programs for C language
