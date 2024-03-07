@@ -17,7 +17,4 @@ int main() {
     }exit;
      } while (str,str1 != 0);
     return 0;
-
-    
-
 }
