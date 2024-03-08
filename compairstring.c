@@ -14,11 +14,11 @@ int main() {
 
     compare(x, y);
 
-    return 0;
+    
 }
 
 void compare(char *a, char *b) {
-    if (strcmp(a, b) == 0)
+    if (*a == *b)
         printf("Both strings are the same.\n");
     else
         printf("Both strings are not the same.\n");
